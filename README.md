@@ -10,6 +10,9 @@ The purpose of this case is to help students understand IT audit risk, internal 
 
 # SeatGate Ticketing System: Instructor Command Sheet
 
+## Default and Off-the-shelf website for instructors
+- https://ais-2026-anonymous.github.io/ticketing-system/
+
 ## Instructional Videos
 
 - [Instructor setup video](https://youtu.be/EGJwitU4Nos)
