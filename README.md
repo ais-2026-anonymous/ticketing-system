@@ -21,9 +21,18 @@ The purpose of this case is to help students understand IT audit risk, internal 
 
 ## Student Materials
 
-- [SeatGate Student Case Deck](materials/SeatGate_Student_Case_Deck_Expanded.pptx)
-- [SeatGate Student Worksheet](materials/SeatGate_Student_Worksheet_Updated.docx)
+- [Student Case Instructions](materials/student-case-instructions.pdf)
+- [Student Template - Worksheet Version 1](materials/worksheets/worksheet-version-1.docx)
+- [Alternative Implementation Student Template - Worksheet Version 2](materials/worksheets/worksheet-version-2.docx)
 - [Browse all repository materials](https://github.com/ais-2026-anonymous/ticketing-system/tree/main/materials)
+
+## Instructor Materials
+
+These files contain teaching guidance and suggested answers. Distribute the student instructions and the assigned worksheet to students.
+
+- [Teaching Notes](materials/instructor/teaching-notes.pdf)
+- [Instructor Solutions for Both Worksheet Versions](materials/instructor/instructor-solutions.pdf)
+- [Instructor PowerPoint](materials/instructor/instructor-slides.pptx)
 
 ---
 
@@ -101,7 +110,7 @@ Set the following values:
 
 ```text
 Root Directory: server
-Build Command: npm run build
+Build Command: npm install
 Start Command: npm start
 ```
 
@@ -194,7 +203,7 @@ Once the build finishes, your website will be live.
 
 ## 11. Issue Commands
 
-Use the commands from the guiding text file or from your GitHub repository's README.
+Use the commands in this README.
 
 If you have restricted access to command-line terminals, you can use:
 
